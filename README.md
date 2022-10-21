@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Praveen-pm25
+- 👋 Hi, I’m @Praveen M
 - 🌱 I’m currently pursuing Btech in AI at IIT Hyderabad
 - 👀 I’m interested in AI, ML, Datascience
 
